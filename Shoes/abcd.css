@@ -1,0 +1,281 @@
+#aq{
+    
+   
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    border-color: green;
+    color: wheat;
+    text-shadow: 2px 2px violet;
+    font-size: 20px;
+}
+
+img{
+
+    height: 400px;
+
+}
+
+
+#df{
+
+    background-color: black;
+    color: wheat;
+    text-shadow: 2px 2px violet;
+    font-size: 20px;
+
+    
+    width: 100%;
+    height: 50px;
+   
+    border-color: green;
+    
+}
+
+*{
+
+    
+    border-color: green;
+}
+
+h1{
+
+    background-color: black;
+    color: wheat;
+    text-shadow: 2px 2px violet;
+    
+}
+
+#ww{
+
+    height: 50px;
+    width: 50px;
+    justify-content: space-around;
+    background-color: wheat;
+}
+
+.Banner2{
+
+    background-image:url(shoes\ store\ 2.png);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    
+
+
+
+
+}
+
+footer{
+
+    background-color: white;
+    display: flex;
+   
+
+    height: 300px;
+    width: 100%;
+    
+
+
+}
+footer h2{
+
+    background-color: white;
+    padding-top: 10px;
+}
+
+
+#qq{
+
+    height: 50px;
+    width: 50px;
+    justify-content: space-around;
+    background-color: white;
+    
+
+    
+}
+
+#zz{
+
+    height: 50px;
+    width: 50px;
+    justify-content: space-around;
+    background-color: white;
+}
+
+h2{
+
+    text-align: center;
+    display: flex;
+    padding-left: 60px;
+    position: absolute;
+    
+    top: 10;
+    color: gray;
+}
+
+h3{
+    background-color: white;
+
+    color: grey;
+  
+    display: flex;
+    padding-left: 700px;
+    margin-bottom: 100px;
+    
+
+    
+}
+
+section{
+
+    background-color: black;
+}
+
+ footer h2 h3{
+
+    display: flex;
+
+
+}
+
+ul{
+
+    color: grey;
+    
+   padding-left: 700px;
+}
+
+#ad{
+    color: grey;
+    padding-right: 50px;
+    display: flex;
+}
+#xx{
+
+    margin-top: 70px;
+    padding-left: 70px;
+    position: absolute;
+}
+
+#ab{
+
+   
+
+    color: grey;
+    padding-right: 50px;
+    display: flex;
+      
+    
+}
+#cc{
+
+    margin-top: 70px;
+    padding-left: 100px;
+    position: absolute;
+}
+
+#za{
+
+    margin-top: 70px;
+    padding-left: 130px;
+    position: absolute;
+
+
+}
+
+nav{
+
+    background-color: transparent;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-right: 650px;
+    position: sticky;
+    top: 0%;
+    
+}
+
+nav ul{
+
+    display: flex;
+    
+}
+
+nav ul li a{
+
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+    
+}
+
+nav ul li a:hover{
+
+  
+    text-decoration: underline;
+    
+}
+
+#kk{
+
+    background-color: black;
+    color: wheat;
+    text-shadow: 2px 2px violet;
+    font-size: 20px;
+
+    
+    width: 100%;
+    height: 50px;
+   
+    border-color: greenyellow;
+
+
+}
+
+#log{
+
+    
+    background-color: black;
+    color: wheat;
+    text-shadow: 2px 2px violet;
+    font-size: 20px;
+
+    
+    width: 100%;
+    height: 50px;
+    
+    border-color: greenyellow;
+
+
+}
+
+
+#log:hover{
+
+    text-shadow: 2px 2px green;
+}
+
+#kk:hover{
+
+    text-shadow: 2px 2px green;
+}
+
+#df:hover{
+
+    text-shadow: 2px 2px green;
+}
+
+#aq:hover{
+
+    text-shadow: 2px 2px green;
+}
+
+
+

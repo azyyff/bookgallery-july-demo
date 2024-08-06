@@ -1,0 +1,144 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: "Playwrite AT", cursive;
+}
+
+header{
+
+    background-color: chocolate;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+header button{
+
+    width: 80px;
+    height: 40px;
+    border-radius: 10%;
+    margin: 5%;
+}
+
+.Banner{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNND2WVxvZp7kJ2b1sQRcefhYt3QUU76Cdrg&s);
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+
+.row{
+
+    background-color: blue;
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+}
+
+.col{
+
+    background-color: brown;
+    width: 300px;
+    height: 500px;
+    margin: 10px;
+    text-align: center;
+    color: darkmagenta;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img{
+
+    padding-top: 10px;
+    border-radius: 10px;
+    width: 250px;
+    height: 350px;
+}
+
+img:hover{
+
+    box-shadow: 2px 4px green;
+}
+
+section span{
+
+    color: deeppink;
+    font-size: 20px;
+}
+
+section button{
+
+    background-color: cyan;
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+section button:hover{
+
+    background-color: coral;
+
+}
+
+footer{
+
+    background-color: gold;
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    
+}
+footer h4{
+
+    color: tomato;
+}
+
+@media screen and (max-width:400px){
+    *{
+
+        margin: 0;
+        padding: 0;
+        font-family: 'Times New Roman', Times, serif;
+
+
+    }
+
+    header{
+
+        width: 400px;
+        background-color: darkred;
+        color: springgreen;
+        padding: 0%;
+    }
+
+   .row{
+
+    background-color: deeppink;
+    width: 400px;
+    height: 3000px;
+    display: flex;
+    flex-direction: column;
+
+   }
+
+   .col{
+
+    height: 600px;
+    width: 350px;
+    border: 3px solid purple;
+    margin-left: 23px;
+   }
+   
+   .Banner{
+
+    width: 400px;
+    height: 200px;
+   }
+    
+}

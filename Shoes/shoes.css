@@ -1,0 +1,238 @@
+
+*{
+    
+    margin: 0;
+    padding: 0;
+    font-family: "Teko", sans-serif;
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+header{
+    
+
+    
+    color:greenyellow;
+    text-shadow: 2px 2px violet;
+    position: sticky;
+    top: 0%;
+
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+
+section h2{
+
+    background-color: whitesmoke;
+
+    margin-top: 0%;
+    text-shadow: 2px 2px wheat;
+    color: black;
+    padding-top: 35px;
+    font-size: 30px;
+
+}
+
+
+
+
+header button{
+
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    
+
+width: 80px;
+height: 40px; 
+margin: 2%; 
+border-radius: 20px;  
+
+
+}
+
+.row{
+
+    
+    width: 100%;
+    height: 550px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    
+    
+
+    
+    
+    
+
+
+}
+.col{
+
+
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    
+    border-radius: 10px;
+    padding: 10px;
+    
+
+}
+
+.Banner{
+
+    background-image: url(yellow\ 11.png);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+
+
+}
+
+section{
+
+    
+    height: 500%;
+    width: 100%;
+}
+
+img{
+    height: 350px;
+    width: 250px;
+    
+    padding-top: 10px;
+}
+
+img:hover{
+
+    box-shadow: 2px 4px gold;
+}
+
+section span{
+
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+section button{
+
+    background-color: black;
+    color: wheat;
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    border-radius: 10px;
+    
+    font-size: 15px;
+}
+
+section button:hover{
+
+
+    background-color: cyan;
+    box-shadow: 2px 2px violet;
+
+}
+
+section h2{
+
+    text-align: center;
+    margin: top 0px; ;
+}
+
+header button:hover{
+
+    background-color: cyan;
+    
+    box-shadow: 2px 2px violet;
+
+    
+}
+
+section span{
+
+    color: black;
+    font-size: 20px;
+    text-shadow: 2px 2px grey;
+}
+footer{
+
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+
+    
+    
+    
+}
+
+footer h2{
+    background-color: black;
+    
+    color: wheat;
+    padding-top: 10px;
+}
+
+footer h4{
+    background-color: black;
+    padding-top: 10px;
+    color:  wheat;
+}
+
+
+#ass{
+
+    align-items: last baseline;
+    padding-top: 115px;
+    
+    padding-bottom: 0%;
+}
+
+input{
+
+    accent-color: blueviolet;
+    color: rebeccapurple;
+}
+
+
+
+#tt{
+
+    background-color: wheat;
+}
+
+#sd{
+
+    background-color: wheat;
+}
+
+#qr{
+
+    background-color: wheat;
+}
+
+
+    
+    
+
+
+
+
+
